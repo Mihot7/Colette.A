@@ -1,0 +1,1 @@
+m = Array("You cant get away from me EVER!", "Dont run away!", "I just want to be friends!", "How many cool brawlers!"): Randomize: MsgBox m(Int((UBound(m) + 1) * Rnd))

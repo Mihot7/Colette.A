@@ -1,6 +1,9 @@
 # Colette.A (Note to supercell if you don't want your characters quetes in this program please contact me: zixmichal@gmail.com I'll delete it ASAP)
 <br> Do not run on a real pc!
 This is a Trojan smple that I wrote for educational purposes.
+# You take full responsibility for using these files. This is MALWARE and it WILL destroy/corrupt your devices, data and operating system.
+
+
 # I am not responsible for anything this program did
 
 <br>
